@@ -6,11 +6,15 @@ Este projeto é parte do exercício de HTML e CSS Avançado - Parte 1, com o obj
 
 ## 📸 Como ficou
 
-- **Versão Desktop:**  
-<img src="src/images/screenshot-desktop.png" width="250"/>
+<p align="center">
+  <strong>Versão Desktop:</strong><br/>
+  <img src="src/images/screenshot-desktop.png" style="width: 60%; max-width: 600px;"/>
+</p>
 
-- **Versão Mobile:**  
-<img src="src/images/screenshot-mobile.png" width="250"/>
+<p align="center">
+  <strong>Versão Mobile:</strong><br/>
+  <img src="src/images/screenshot-mobile.png" style="width: 30%; max-width: 300px;"/>
+</p>
 
 ---
 
