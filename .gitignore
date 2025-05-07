@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+.zsh_history
+.lesshst
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Node.js (se usar)
+node_modules/
+*.log
+
+# Arquivos sensíveis
+*.env

@@ -1,0 +1,90 @@
+body{
+    background-color: var(--background-color);
+    font-family: "Manrope", sans-serif;
+    height: 100vh;
+}
+
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.card{
+    position: relative;
+    background-color: var(--card-color);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 4.7rem;
+    width: 499px;
+    height: 320px;
+    align-items: center;
+    text-align: center;
+    border-radius: 5%;    
+    font-size: 1.3rem;
+}
+
+.card .advice-number {
+    position: absolute;             
+    top: 2.5rem;                    
+    left: 50%;                      
+    transform: translateX(-50%);   
+    color: var(--card-text);
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.3rem;
+  }
+
+  .card .text-card{
+    color: var(--text-color);
+    margin-top: 4rem;
+  }
+
+  .card .divider-svg {
+    display: block;           
+    margin: 1.5rem auto;      
+    width: 300px;             
+    height: auto;             
+  }
+
+  .card .icon-divider {
+    display: block;           
+    margin: 1.5rem auto;      
+    width: 300px;             
+    height: auto;        
+  }
+
+  .card .button-dice{
+    position: absolute;
+    background-color: var(--card-text);
+    display: flex;        
+    align-items: center;
+    justify-content: center;
+    width: 64px;          
+    height: 64px;
+    border: none;
+    border-radius: 50%;
+    bottom: -32px;
+  }
+
+  @media (max-width: 600px) {
+    .card {
+      width: 90%;           
+      height: auto;         
+      padding: 2rem;    
+      font-size: 1rem;      
+    }
+  
+    .card .divider-svg {
+      width: 70%;          
+    }
+  
+    .button-dice {
+      width: 48px;        
+      height: 48px;
+      bottom: -24px;        
+    }
+  }
+  
