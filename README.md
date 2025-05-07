@@ -8,13 +8,12 @@ Este projeto é parte do exercício de HTML e CSS Avançado - Parte 1, com o obj
 
 <p align="center">
   <strong>Versão Desktop:</strong><br/>
-  <img src="src/images/screenshot-desktop.png" style="width: 60%; max-width: 600px;"/>
+  <img src="src/images/screenshot-desktop.png" width="700"/>
 </p>
 
 <p align="center">
   <strong>Versão Mobile:</strong><br/>
-  <img src="src/images/screenshot-mobile.png" style="width: 30%; max-width: 300px;"/>
-</p>
+  <img src="src/images/screenshot-mobile.png" width="300"/>
 
 ---
 
