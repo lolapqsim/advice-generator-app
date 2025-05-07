@@ -34,16 +34,19 @@ Reproduzir fielmente o layout proposto, com atenção a:
 
 ## 📁 Estrutura do Projeto
 
+```text
 advice-generator-app-main/
 ├── index.html
 ├── src/
-│ ├── css/
-│ │ ├── reset.css
-│ │ ├── style.css
-│ │ └── variable.css
-│ ├── images/
-│ │ ├── screenshot-desktop.png
-│ │ └── screenshot-mobile.png
+│   ├── css/
+│   │   ├── reset.css
+│   │   ├── style.css
+│   │   └── variable.css
+│   └── images/
+│       ├── screenshot-desktop.png
+│       └── screenshot-mobile.png
+├── screenshot-desktop.png
+├── screenshot-mobile.png
 └── README.md
 
 
