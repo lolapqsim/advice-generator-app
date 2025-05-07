@@ -7,10 +7,10 @@ Este projeto é parte do exercício de HTML e CSS Avançado - Parte 1, com o obj
 ## 📸 Como ficou
 
 - **Versão Desktop:**  
-  <img src="src/images/screenshot-desktop.png" width="400"/>
+<img src="src/images/screenshot-desktop.png" width="250"/>
 
 - **Versão Mobile:**  
-  <img src="src/images/screenshot-mobile.png" width="250"/>
+<img src="src/images/screenshot-mobile.png" width="250"/>
 
 ---
 
